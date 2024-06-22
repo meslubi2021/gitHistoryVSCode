@@ -435,7 +435,7 @@
         "@storybook/addon-info": "^5.3.17",
         "@storybook/addon-links": "^5.3.17",
         "@storybook/addons": "^5.3.17",
-        "@storybook/react": "^3.4.12",
+        "@storybook/react": "^8.1.10",
         "@types/chai": "^4.2.9",
         "@types/clipboard": "^2.0.1",
         "@types/fs-extra": "^8.0.0",
